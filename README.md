@@ -12,7 +12,8 @@ Para que este programa funcione correctamente, grafique las señales y pueda rep
 
 ### ¿Cómo instalar las dependencias?
 
-Ejecuta el siguiente comando en tu terminal para instalar todas las librerías necesarias de forma automática:
+Copia o descarga el codigo y abrelo en tu compilador
+ejecuta el siguiente comando en tu terminal para instalar todas las librerías necesarias de forma automática:
 
 ```bash
 pip install numpy matplotlib sounddevice
